@@ -1,0 +1,24 @@
+# Private plugin made by Juan Espulef (JuqnGOOD)
+# Copyright © 2021 - Juan Espulef
+
+items:
+  freezer:
+    name: 'Freezer'
+    item: '79:0'
+    custom_name: '&l&aFreezer&r'
+    lore:
+      - 'When hitting the enemy, he will'
+      - 'have a freeze time of 5 seconds'
+    cooldown: 60
+  prepearl:
+    name: 'PrePearl'
+    item: '368:0'
+    custom_name: '&l&ePrePearl&r'
+    lore: []
+    cooldown: 60
+  bow:
+    name: 'Bow'
+    item: '261:0'
+    custom_name: '&l&bBow'
+    lore: []
+    cooldown: 60
