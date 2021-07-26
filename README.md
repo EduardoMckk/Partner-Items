@@ -1,3 +1,3 @@
 # Partner-Items
 
-** Plugin by @JuqnDev
+## Plugin by @JuqnDev
