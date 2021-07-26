@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/juqn-plugins/Partner-Items
+build-by-default: true
+branches:
+- main
+projects:
+  Partner-Items:
+    path: ""
+...
